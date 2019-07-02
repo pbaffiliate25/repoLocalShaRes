@@ -1,0 +1,2 @@
+# repoLocalShaRes
+for test GitHubLocalSHAsInResponseTest
